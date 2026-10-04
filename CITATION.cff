@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use peekproof in research, please cite it as below."
+title: "peekproof: detecting look-ahead leakage in backtests"
+type: software
+authors:
+  - family-names: Majores
+    given-names: Alexander
+version: 0.1.0
+date-released: 2026-10-04
+license: MIT
+repository-code: "https://github.com/Thesimpleex/peekproof"
+url: "https://github.com/Thesimpleex/peekproof"
+keywords:
+  - look-ahead bias
+  - data leakage
+  - backtesting
+  - quantitative finance
+  - time series
