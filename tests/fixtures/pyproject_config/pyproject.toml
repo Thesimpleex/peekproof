@@ -1,0 +1,2 @@
+[tool.peekproof]
+ignore = ["PP006"]
