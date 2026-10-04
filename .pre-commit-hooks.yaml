@@ -1,0 +1,7 @@
+- id: peekproof-lint
+  name: peekproof lint
+  description: Flag look-ahead leakage patterns in research code.
+  entry: peekproof lint
+  language: python
+  types_or: [python, jupyter]
+  additional_dependencies: []
